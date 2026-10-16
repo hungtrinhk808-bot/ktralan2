@@ -1,0 +1,30 @@
+C:\Users\hungt\Downloads\QuanLySieuThi_MDI\QuanLySieuThi_MDI\bin\Debug\net8.0-windows\QuanLySieuThi.exe
+C:\Users\hungt\Downloads\QuanLySieuThi_MDI\QuanLySieuThi_MDI\bin\Debug\net8.0-windows\QuanLySieuThi.deps.json
+C:\Users\hungt\Downloads\QuanLySieuThi_MDI\QuanLySieuThi_MDI\bin\Debug\net8.0-windows\QuanLySieuThi.runtimeconfig.json
+C:\Users\hungt\Downloads\QuanLySieuThi_MDI\QuanLySieuThi_MDI\bin\Debug\net8.0-windows\QuanLySieuThi.dll
+C:\Users\hungt\Downloads\QuanLySieuThi_MDI\QuanLySieuThi_MDI\bin\Debug\net8.0-windows\QuanLySieuThi.pdb
+C:\Users\hungt\Downloads\QuanLySieuThi_MDI\QuanLySieuThi_MDI\obj\Debug\net8.0-windows\QuanLySieuThi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hungt\Downloads\QuanLySieuThi_MDI\QuanLySieuThi_MDI\obj\Debug\net8.0-windows\QuanLySieuThi.AssemblyInfoInputs.cache
+C:\Users\hungt\Downloads\QuanLySieuThi_MDI\QuanLySieuThi_MDI\obj\Debug\net8.0-windows\QuanLySieuThi.AssemblyInfo.cs
+C:\Users\hungt\Downloads\QuanLySieuThi_MDI\QuanLySieuThi_MDI\obj\Debug\net8.0-windows\QuanLySieuThi.csproj.CoreCompileInputs.cache
+C:\Users\hungt\Downloads\QuanLySieuThi_MDI\QuanLySieuThi_MDI\obj\Debug\net8.0-windows\QuanLySieuThi.dll
+C:\Users\hungt\Downloads\QuanLySieuThi_MDI\QuanLySieuThi_MDI\obj\Debug\net8.0-windows\refint\QuanLySieuThi.dll
+C:\Users\hungt\Downloads\QuanLySieuThi_MDI\QuanLySieuThi_MDI\obj\Debug\net8.0-windows\QuanLySieuThi.pdb
+C:\Users\hungt\Downloads\QuanLySieuThi_MDI\QuanLySieuThi_MDI\obj\Debug\net8.0-windows\QuanLySieuThi.genruntimeconfig.cache
+C:\Users\hungt\Downloads\QuanLySieuThi_MDI\QuanLySieuThi_MDI\obj\Debug\net8.0-windows\ref\QuanLySieuThi.dll
+C:\Users\hungt\Downloads\QuanLySieuThi_MDI\QuanLySieuThi_MDI\obj\Debug\net8.0-windows\QuanLySi.D4933BDA.Up2Date
+C:\Users\hungt\Downloads\Thư mục mới\QuanLySieuThi_MDI\bin\Debug\net8.0-windows\QuanLySieuThi.exe
+C:\Users\hungt\Downloads\Thư mục mới\QuanLySieuThi_MDI\bin\Debug\net8.0-windows\QuanLySieuThi.deps.json
+C:\Users\hungt\Downloads\Thư mục mới\QuanLySieuThi_MDI\bin\Debug\net8.0-windows\QuanLySieuThi.runtimeconfig.json
+C:\Users\hungt\Downloads\Thư mục mới\QuanLySieuThi_MDI\bin\Debug\net8.0-windows\QuanLySieuThi.dll
+C:\Users\hungt\Downloads\Thư mục mới\QuanLySieuThi_MDI\bin\Debug\net8.0-windows\QuanLySieuThi.pdb
+C:\Users\hungt\Downloads\Thư mục mới\QuanLySieuThi_MDI\obj\Debug\net8.0-windows\QuanLySieuThi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hungt\Downloads\Thư mục mới\QuanLySieuThi_MDI\obj\Debug\net8.0-windows\QuanLySieuThi.AssemblyInfoInputs.cache
+C:\Users\hungt\Downloads\Thư mục mới\QuanLySieuThi_MDI\obj\Debug\net8.0-windows\QuanLySieuThi.AssemblyInfo.cs
+C:\Users\hungt\Downloads\Thư mục mới\QuanLySieuThi_MDI\obj\Debug\net8.0-windows\QuanLySieuThi.csproj.CoreCompileInputs.cache
+C:\Users\hungt\Downloads\Thư mục mới\QuanLySieuThi_MDI\obj\Debug\net8.0-windows\QuanLySieuThi.dll
+C:\Users\hungt\Downloads\Thư mục mới\QuanLySieuThi_MDI\obj\Debug\net8.0-windows\refint\QuanLySieuThi.dll
+C:\Users\hungt\Downloads\Thư mục mới\QuanLySieuThi_MDI\obj\Debug\net8.0-windows\QuanLySieuThi.pdb
+C:\Users\hungt\Downloads\Thư mục mới\QuanLySieuThi_MDI\obj\Debug\net8.0-windows\QuanLySieuThi.genruntimeconfig.cache
+C:\Users\hungt\Downloads\Thư mục mới\QuanLySieuThi_MDI\obj\Debug\net8.0-windows\ref\QuanLySieuThi.dll
+C:\Users\hungt\Downloads\Thư mục mới\QuanLySieuThi_MDI\obj\Debug\net8.0-windows\QuanLySi.D4933BDA.Up2Date

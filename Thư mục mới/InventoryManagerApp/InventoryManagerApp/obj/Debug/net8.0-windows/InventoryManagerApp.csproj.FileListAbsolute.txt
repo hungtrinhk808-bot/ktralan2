@@ -1,0 +1,30 @@
+C:\Users\hungt\Downloads\InventoryManagerApp\InventoryManagerApp\bin\Debug\net8.0-windows\InventoryManagerApp.exe
+C:\Users\hungt\Downloads\InventoryManagerApp\InventoryManagerApp\bin\Debug\net8.0-windows\InventoryManagerApp.deps.json
+C:\Users\hungt\Downloads\InventoryManagerApp\InventoryManagerApp\bin\Debug\net8.0-windows\InventoryManagerApp.runtimeconfig.json
+C:\Users\hungt\Downloads\InventoryManagerApp\InventoryManagerApp\bin\Debug\net8.0-windows\InventoryManagerApp.dll
+C:\Users\hungt\Downloads\InventoryManagerApp\InventoryManagerApp\bin\Debug\net8.0-windows\InventoryManagerApp.pdb
+C:\Users\hungt\Downloads\InventoryManagerApp\InventoryManagerApp\obj\Debug\net8.0-windows\InventoryManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hungt\Downloads\InventoryManagerApp\InventoryManagerApp\obj\Debug\net8.0-windows\InventoryManagerApp.AssemblyInfoInputs.cache
+C:\Users\hungt\Downloads\InventoryManagerApp\InventoryManagerApp\obj\Debug\net8.0-windows\InventoryManagerApp.AssemblyInfo.cs
+C:\Users\hungt\Downloads\InventoryManagerApp\InventoryManagerApp\obj\Debug\net8.0-windows\InventoryManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\hungt\Downloads\InventoryManagerApp\InventoryManagerApp\obj\Debug\net8.0-windows\InventoryManagerApp.dll
+C:\Users\hungt\Downloads\InventoryManagerApp\InventoryManagerApp\obj\Debug\net8.0-windows\refint\InventoryManagerApp.dll
+C:\Users\hungt\Downloads\InventoryManagerApp\InventoryManagerApp\obj\Debug\net8.0-windows\InventoryManagerApp.pdb
+C:\Users\hungt\Downloads\InventoryManagerApp\InventoryManagerApp\obj\Debug\net8.0-windows\InventoryManagerApp.genruntimeconfig.cache
+C:\Users\hungt\Downloads\InventoryManagerApp\InventoryManagerApp\obj\Debug\net8.0-windows\ref\InventoryManagerApp.dll
+C:\Users\hungt\Downloads\InventoryManagerApp\InventoryManagerApp\obj\Debug\net8.0-windows\Inventor.BB957D1D.Up2Date
+C:\Users\hungt\Downloads\Thư mục mới\InventoryManagerApp\InventoryManagerApp\bin\Debug\net8.0-windows\InventoryManagerApp.exe
+C:\Users\hungt\Downloads\Thư mục mới\InventoryManagerApp\InventoryManagerApp\bin\Debug\net8.0-windows\InventoryManagerApp.deps.json
+C:\Users\hungt\Downloads\Thư mục mới\InventoryManagerApp\InventoryManagerApp\bin\Debug\net8.0-windows\InventoryManagerApp.runtimeconfig.json
+C:\Users\hungt\Downloads\Thư mục mới\InventoryManagerApp\InventoryManagerApp\bin\Debug\net8.0-windows\InventoryManagerApp.dll
+C:\Users\hungt\Downloads\Thư mục mới\InventoryManagerApp\InventoryManagerApp\bin\Debug\net8.0-windows\InventoryManagerApp.pdb
+C:\Users\hungt\Downloads\Thư mục mới\InventoryManagerApp\InventoryManagerApp\obj\Debug\net8.0-windows\InventoryManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hungt\Downloads\Thư mục mới\InventoryManagerApp\InventoryManagerApp\obj\Debug\net8.0-windows\InventoryManagerApp.AssemblyInfoInputs.cache
+C:\Users\hungt\Downloads\Thư mục mới\InventoryManagerApp\InventoryManagerApp\obj\Debug\net8.0-windows\InventoryManagerApp.AssemblyInfo.cs
+C:\Users\hungt\Downloads\Thư mục mới\InventoryManagerApp\InventoryManagerApp\obj\Debug\net8.0-windows\InventoryManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\hungt\Downloads\Thư mục mới\InventoryManagerApp\InventoryManagerApp\obj\Debug\net8.0-windows\InventoryManagerApp.dll
+C:\Users\hungt\Downloads\Thư mục mới\InventoryManagerApp\InventoryManagerApp\obj\Debug\net8.0-windows\refint\InventoryManagerApp.dll
+C:\Users\hungt\Downloads\Thư mục mới\InventoryManagerApp\InventoryManagerApp\obj\Debug\net8.0-windows\InventoryManagerApp.pdb
+C:\Users\hungt\Downloads\Thư mục mới\InventoryManagerApp\InventoryManagerApp\obj\Debug\net8.0-windows\InventoryManagerApp.genruntimeconfig.cache
+C:\Users\hungt\Downloads\Thư mục mới\InventoryManagerApp\InventoryManagerApp\obj\Debug\net8.0-windows\ref\InventoryManagerApp.dll
+C:\Users\hungt\Downloads\Thư mục mới\InventoryManagerApp\InventoryManagerApp\obj\Debug\net8.0-windows\Inventor.BB957D1D.Up2Date

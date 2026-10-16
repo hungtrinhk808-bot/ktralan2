@@ -1,0 +1,15 @@
+C:\Users\hungt\Downloads\Thư mục mới\DeviceManagerApp\obj\Debug\net8.0-windows\DeviceManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hungt\Downloads\Thư mục mới\DeviceManagerApp\obj\Debug\net8.0-windows\DeviceManagerApp.AssemblyInfoInputs.cache
+C:\Users\hungt\Downloads\Thư mục mới\DeviceManagerApp\obj\Debug\net8.0-windows\DeviceManagerApp.AssemblyInfo.cs
+C:\Users\hungt\Downloads\Thư mục mới\DeviceManagerApp\obj\Debug\net8.0-windows\DeviceManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\hungt\Downloads\Thư mục mới\DeviceManagerApp\bin\Debug\net8.0-windows\DeviceManagerApp.exe
+C:\Users\hungt\Downloads\Thư mục mới\DeviceManagerApp\bin\Debug\net8.0-windows\DeviceManagerApp.deps.json
+C:\Users\hungt\Downloads\Thư mục mới\DeviceManagerApp\bin\Debug\net8.0-windows\DeviceManagerApp.runtimeconfig.json
+C:\Users\hungt\Downloads\Thư mục mới\DeviceManagerApp\bin\Debug\net8.0-windows\DeviceManagerApp.dll
+C:\Users\hungt\Downloads\Thư mục mới\DeviceManagerApp\bin\Debug\net8.0-windows\DeviceManagerApp.pdb
+C:\Users\hungt\Downloads\Thư mục mới\DeviceManagerApp\obj\Debug\net8.0-windows\DeviceManagerApp.dll
+C:\Users\hungt\Downloads\Thư mục mới\DeviceManagerApp\obj\Debug\net8.0-windows\refint\DeviceManagerApp.dll
+C:\Users\hungt\Downloads\Thư mục mới\DeviceManagerApp\obj\Debug\net8.0-windows\DeviceManagerApp.pdb
+C:\Users\hungt\Downloads\Thư mục mới\DeviceManagerApp\obj\Debug\net8.0-windows\DeviceManagerApp.genruntimeconfig.cache
+C:\Users\hungt\Downloads\Thư mục mới\DeviceManagerApp\obj\Debug\net8.0-windows\ref\DeviceManagerApp.dll
+C:\Users\hungt\Downloads\Thư mục mới\DeviceManagerApp\obj\Debug\net8.0-windows\DeviceMa.352CBAA4.Up2Date
